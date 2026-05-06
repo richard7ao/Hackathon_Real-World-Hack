@@ -1,1 +1,0 @@
-# cursor-x-briefcase-hackathon

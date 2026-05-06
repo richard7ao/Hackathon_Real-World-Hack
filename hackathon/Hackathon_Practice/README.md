@@ -1,2 +1,0 @@
-# Hackathon-Practice
-Hackathon Practice
