@@ -147,3 +147,39 @@ Three anti-patterns to avoid: **don't build a chatbot UI** — it must look like
 ## Conclusion
 
 Your edge is not technical — every team in that room can ship an OpenAI demo. Your edge is **regulatory and domain specificity in a hackathon whose sponsors have explicitly priced multimodal, physical-world, agentic builds at a premium**. The Awaab's Law agent is the only project archetype I evaluated that simultaneously (a) maps to a statute that just turned enforceable, (b) has buyers with allocated FY2026 budget, (c) gives you a 60-second visceral demo loop with telephony plus vision plus a live map countdown, (d) uses all four sponsor APIs naturally, and (e) lets you tell the practitioner-authenticity story that has won the last two cycles of Anthropic and ElevenLabs hackathons. Helgason's Unity DNA wants to see real-time visual feedback; NEA's Vertical AI thesis wants to see system-of-record-plus-agent; Operators & Friends wants to see a company builder, not a research demo. This single build pays all three at once. Build narrow, demo deterministically, pitch in the language they wrote, and walk out with the warm intro — which is the real prize, regardless of what the cash credits say.
+
+Yes — there's a direct precursor. "Building for the Real World Hackathon" in San Francisco on December 2, 2025, co-hosted by Operators & Friends, Pebblebed, and Build.inc. Same theme, same organisers (O&F is the connecting thread), same "real world" framing. The London May 9 event is essentially the European twin.
+Key facts about the SF precursor:
+
+Pebblebed (the SF co-host) is a technical VC: Pam Vagata (founding member of OpenAI), Keith Adams (founder of FAIR at Meta), Tammie Siew (ex-Sequoia/GGV-backed founder)
+Build.inc focuses on AI for physical infrastructure and construction
+100 hand-picked builders, 6-hour sprint, $30K+ credit pool
+Themes: geospatial, robotics, construction, hardware, infrastructure, logistics
+
+I couldn't find a published winners list for the SF event (Operators & Friends doesn't post recap blogs — they're an invite-only community, not a public hackathon brand like Devpost or lablab.ai).
+There was also a separate April 2025 Transition × Operators & Friends event in London (smaller, not branded as a hackathon).
+What this tells you for May 9:
+
+The London event is a format clone of the SF one — expect ~60-100 builders, 5-6 hour sprint, panel-style judging, credit prizes, mingling-as-the-real-prize
+No public winner archive means no benchmark to beat publicly — judges will rely on their own taste, which means Helgason's "atoms not pixels" thesis and NEA's vertical AI essay are your only reliable signals
+The absence of a Devpost/lablab.ai presence confirms this is a VC relationship event, not a credentialing event — optimise for the warm intro, not the trophy
+
+This actually strengthens the recommendation: with no published past winners to anchor judges' expectations, the team that most clearly embodies the published thesis wins. Awaab's Law agent does exactly that.You said: tell me the projects and give me the links of the projects which wontell me the projects and give me the links of the projects which won23:01Claude responded: I have to be straight with you: there is no public winners list for the December 2, 2025 "Building for the Real World" hackathon (the SF precursor) or any prio…Searched the webSearched the webI have to be straight with you: there is no public winners list for the December 2, 2025 "Building for the Real World" hackathon (the SF precursor) or any prior Operators & Friends / Transition / NEA hackathon.
+Here's what I confirmed:
+
+The Luma page (https://luma.com/buildingfortherealworld) only lists hosts and venue, no recap
+Operators & Friends doesn't publish recaps — they're an invite-only community, not a Devpost-style platform
+Pebblebed's only Devpost-listed event is "The Unhackable Hack" (a separate cybersecurity hackathon, different theme)
+No Transition Ventures, NEA, or O&F hackathon appears on Devpost, lablab.ai, or Cerebral Valley archives
+No press, blog posts, or LinkedIn recaps from any of the three organisers
+
+Why: these are VC relationship events, not credentialing events. Winners get credits + GP office hours, not press coverage. Builders typically don't post to Devpost because submission isn't required.
+What this means for you: there are no "past winners" to study. Your benchmarks are adjacent VC-hosted real-world hacks where winners ARE public:
+
+a16z × ElevenLabs Worldwide (Dec 2025): https://lablab.ai/event/elevenlabs-worldwide-hackathon
+Anthropic Cerebral Valley (Apr 2026, Opus 4.7): https://cerebralvalley.ai
+Mistral × a16z London (Oct 2024): https://hackukmistral.devpost.com/project-gallery
+NVIDIA NeMo Agent Toolkit winners: https://developer.nvidia.com/blog/hackathon-winners-bring-agentic-ai-to-life-with-the-nvidia-nemo-agent-toolkit/
+Meta Llama Impact Hackathon (Guardian A&E triage won): https://about.fb.com/news/2024/11/metas-llama-impact-hackathon-pioneering-ai-solutions-for-public-good/
+
+If you want, I can pull specific project links from those galleries — particularly the ElevenLabs and Anthropic ones, since they share judges and sponsors with your event.
